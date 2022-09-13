@@ -2,7 +2,7 @@
 set -e -u
 
 getNerdFont() {
-	commit=fef67f39a69314637ae0923dfdd94b3bb0638bd8
+	commit=5454877c01e5efb4b902151655f75d950678dc34
 	url="https://github.com/ryanoasis/nerd-fonts/raw/$commit/patched-fonts/${2}"
 	local_file=app/src/main/assets/fonts/$1.ttf
 	echo "Fetching $url ..."
@@ -38,6 +38,9 @@ getNerdFont Inconsolata \
 
 getNerdFont Iosevka \
 	"Iosevka/Regular/complete/Iosevka%20Nerd%20Font%20Complete%20Mono.ttf"
+
+getNerdFont "JetBrains-Mono" \
+  "JetBrainsMono/Ligatures/Regular/complete/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete.ttf"
 
 getNerdFont LiberationMono \
 	"LiberationMono/complete/Literation%20Mono%20Nerd%20Font%20Complete%20Mono.ttf"
