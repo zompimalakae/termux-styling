@@ -37,7 +37,7 @@ getNerdFont Hermit \
 	"Hermit/Medium/complete/Hurmit%20Medium%20Nerd%20Font%20Complete%20Mono.otf"
 
 getNerdFont Inconsolata \
-	"Inconsolata/complete/Inconsolata%20Nerd%20Font%20Complete%20Mono.otf"
+	"Inconsolata/complete/Inconsolata%20Regular%20Nerd%20Font%20Complete.otf"
 
 getNerdFont Iosevka \
 	"Iosevka/Regular/complete/Iosevka%20Nerd%20Font%20Complete%20Mono.ttf"
