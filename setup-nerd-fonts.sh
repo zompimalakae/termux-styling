@@ -15,6 +15,9 @@ getNerdFont Anonymous-Pro \
 getNerdFont DejaVu \
 	"DejaVuSansMono/Regular/complete/DejaVu%20Sans%20Mono%20Nerd%20Font%20Complete%20Mono.ttf"
 
+getNerdFont Cascadia-Code \
+  "CascadiaCode/Regular/complete/Caskaydia%20Cove%20Nerd%20Font%20Complete%20Regular.otf"
+
 getNerdFont Fantasque \
 	"FantasqueSansMono/Regular/complete/Fantasque%20Sans%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.ttf"
 
