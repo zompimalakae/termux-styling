@@ -16,7 +16,7 @@ getNerdFont DejaVu \
 	"DejaVuSansMono/Regular/complete/DejaVu%20Sans%20Mono%20Nerd%20Font%20Complete%20Mono.ttf"
 
 getNerdFont Cascadia-Code \
-  "CascadiaCode/Regular/complete/Caskaydia%20Cove%20Nerd%20Font%20Complete%20Regular.otf"
+	"CascadiaCode/Regular/complete/Caskaydia%20Cove%20Nerd%20Font%20Complete%20Regular.otf"
 
 getNerdFont Fantasque \
 	"FantasqueSansMono/Regular/complete/Fantasque%20Sans%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.ttf"
@@ -37,13 +37,13 @@ getNerdFont Hermit \
 	"Hermit/Medium/complete/Hurmit%20Medium%20Nerd%20Font%20Complete%20Mono.otf"
 
 getNerdFont Inconsolata \
-	"Inconsolata/complete/Inconsolata%20Regular%20Nerd%20Font%20Complete.otf"
+	"Inconsolata/complete/Inconsolata%20Regular%20Nerd%20Font%20Complete%20Mono.otf"
 
 getNerdFont Iosevka \
 	"Iosevka/Regular/complete/Iosevka%20Nerd%20Font%20Complete%20Mono.ttf"
 
 getNerdFont "JetBrains-Mono" \
-  "JetBrainsMono/Ligatures/Regular/complete/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete.ttf"
+	"JetBrainsMono/Ligatures/Regular/complete/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete.ttf"
 
 getNerdFont LiberationMono \
 	"LiberationMono/complete/Literation%20Mono%20Nerd%20Font%20Complete%20Mono.ttf"
