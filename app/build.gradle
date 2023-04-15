@@ -5,6 +5,7 @@ plugins {
 
 android {
     compileSdkVersion 32
+    namespace "com.termux.styling"
 
      defaultConfig {
         applicationId "com.termux.styling"
